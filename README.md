@@ -1,6 +1,6 @@
 # Proyecto Básico en Node.js
 
-Este es un proyecto básico en Node.js que sirve para eliminar artefactos de Nexus.
+Este es un proyecto básico en Node.js que sirve para eliminar artefactos de Nexus Community 3.79.1
 
 ## Cómo Ejecutar
 
